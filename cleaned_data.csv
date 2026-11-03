@@ -1,0 +1,7 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description,duration_value,duration_type
+1,Movie,The Midnight Run,Alice Stone,"Emma Ross, Leo Grant","United States",2020-09-12,2020,TV-14,90 min,"Action, Comedy","A sharp-witted courier races across the city to stop a devastating cyber attack.",90,min
+2,TV Show,Glass Horizon,Noah Bell,"Sophia Lee, Mark Chen, Ivy Turner","United Kingdom",2021-03-19,2021,TV-MA,1 Season,"Drama, Thriller","A family of climate scientists discovers the truth behind a disappearing island.",1,Season
+3,Movie,City of Echoes,Harper Quinn,"Daniel Cruz, Maya Patel, Priya Bloom","India",2019-06-01,2019,PG-13,110 min,"Sci-Fi, Drama","A young musician hears a buried city in the sound of the wind and follows it home.",110,min
+4,TV Show,Blue Harbor,Rene Moore,"Liam Ford, Nina Hall, Omar Ali","United States",2022-01-09,2022,TV-PG,1 Season,"Kids, Family","A town on the coast starts receiving mysterious signals from the sea.",1,Season
+5,Movie,Paper Sky,Grace Little,"Ava Brown, Liam White, Joel Price","Canada",2021-11-30,2021,TV-G,82 min,"Family, Adventure","A child finds a magical map that leads to an overlooked corner of the world.",82,min
+6,TV Show,The Last Signal,Victor James,"Sara Okafor, Omar Nunez, Jude Hart","South Korea",2018-04-25,2018,TV-14,1 Season,"Mystery, Crime","A former detective follows a trail of coded messages to expose a network of lies.",1,Season
